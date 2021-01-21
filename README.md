@@ -5,6 +5,6 @@ To build the code:
 ```
 >cmake .
 >make
->./video
+>./run_Batman
 ```
-<img src="./result/Batman.jpg" height="25%" width="100%">
+<img src="./result/Batman.pn" height="25%" width="100%">
